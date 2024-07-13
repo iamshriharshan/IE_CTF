@@ -49,3 +49,5 @@ Kripya was chilling with her cat when suddenly a man walks in with a gun. Kripya
 ## Question 3 (Flag Format :IE{})
 
 ### Solve me and win Jackpot (150 points)!!!
+
+A mysterious file with secrets. Deep within its code, there's a hidden flag waiting to be found. Use your skills to uncover this hidden message. Explore, analyze its structure, and decode the path to reveal the encrypted flag. 
