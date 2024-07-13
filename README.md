@@ -1,4 +1,4 @@
-# IE_CTF - Setup Instructions
+# IE_CTF - Setup Instructions for Submission
 
 ## Repository Setup Guidelines
 
