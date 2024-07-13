@@ -1,6 +1,6 @@
 # IE_CTF
 
-## Question 1
+## Question 1 (Flag Format :IE_CTF{})
 
 ### Solve me and get 50 points!!
 
@@ -11,7 +11,8 @@ Recently privyet came across a file owned by his prominent grandfather “Atbash
 
 
 
-## Question 2
+
+## Question 2 (Flag Format :IE_CTF{})
 
 ### Solve me and get 50 points!!
 
@@ -21,4 +22,4 @@ Kripya was chilling with her cat when suddenly a man walks in with a gun. Kripya
 (refer Question 1.jpg)
 
 
-## Question 3
+## Question 3 (Flag Format :IE{})
