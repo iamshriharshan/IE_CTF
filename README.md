@@ -1,6 +1,4 @@
-# IE_CTF
-
-# Capture The Flag Challenge - Setup Instructions
+# IE_CTF - Setup Instructions
 
 ## Repository Setup Guidelines
 
@@ -23,6 +21,10 @@
    - For each text file, include:
      - The flag obtained.
      - A brief explanation of how the flag was obtained or the methodology used.
+    
+
+# IE_CTF Questions
+
        
 ## Question 1 (Flag Format :IE_CTF{})
 
