@@ -11,8 +11,6 @@
    - Inside the repository, create 3 text files (.txt).
    - Each text file should correspond to a specific question in the challenge.
 
-## Adding Flag Files
-
 3. **Naming Convention:**
    - Name each text file based on the question it corresponds to.
      Example: `question1.txt`, `question2.txt`, `question3.txt`
