@@ -1,5 +1,29 @@
 # IE_CTF
 
+# Capture The Flag Challenge - Setup Instructions
+
+## Repository Setup Guidelines
+
+1. **Create a Repository:**
+   - Participants must create a new repository on GitHub.
+   - The repository name must follow this format: `<Team Name _ CTF _ BTSC>`.
+     Example: `<TeamAlpha_CTF_BTSC>`
+
+2. **File Structure:**
+   - Inside the repository, create 3 text files (.txt).
+   - Each text file should correspond to a specific question in the challenge.
+
+## Adding Flag Files
+
+3. **Naming Convention:**
+   - Name each text file based on the question it corresponds to.
+     Example: `question1.txt`, `question2.txt`, `question3.txt`
+
+4. **Content Format:**
+   - For each text file, include:
+     - The flag obtained.
+     - A brief explanation of how the flag was obtained or the methodology used.
+       
 ## Question 1 (Flag Format :IE_CTF{})
 
 ### Solve me and get 50 points!!
@@ -23,3 +47,5 @@ Kripya was chilling with her cat when suddenly a man walks in with a gun. Kripya
 
 
 ## Question 3 (Flag Format :IE{})
+
+### Solve me and win Jackpot (150 points)!!!
