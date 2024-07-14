@@ -43,7 +43,7 @@ Recently privyet came across a file owned by his prominent grandfather “Atbash
 Granny or Mafia?!
 
 Kripya was chilling with her cat when suddenly a man walks in with a gun. Kripya remembers there was a gun in the drawer but forgot the key to open the drawer. The cat does recall Kripya used a binary-to-text encoding. Can you help Kripya with your skills before its too late? 
-(refer Question 1.jpg)
+(refer Question 2.jpg)
 
 
 ## Question 3 (Flag Format :IE{})
